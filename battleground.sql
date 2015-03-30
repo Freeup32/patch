@@ -1,0 +1,1 @@
+UPDATE `battleground_template` SET `MinPlayersPerTeam`=3 WHERE `id` IN (1, 2, 3, 9, 30, 32);
